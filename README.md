@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @olaideyusufofficial
 - 👀 I’m interested in ... software engineering
 - 🌱 I’m currently learning ... html and css
-- 💞️ I’m looking to collaborate on ... fornt end project
+- 💞️ I’m looking to collaborate on ... front end project
 - 📫 How to reach me ... olaideyusufofficial@gmail.com
 
 <!---
